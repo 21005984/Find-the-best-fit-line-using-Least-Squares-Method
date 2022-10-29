@@ -51,9 +51,11 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](sam.png)
-![OUTPUT](./m1.png)
-![OUTPUT](./m2.png)
+![WhatsApp Image 2022-10-29 at 2 51 49 PM](https://user-images.githubusercontent.com/94748389/198824100-aa16e2d2-6869-4c0e-b327-39c603956707.jpeg)
+![WhatsApp Image 2022-10-29 at 2 51 49 PM (1)](https://user-images.githubusercontent.com/94748389/198824112-b5122fd7-a73c-494f-8ad9-f44fdd42d334.jpeg)
+![WhatsApp Image 2022-10-29 at 2 51 49 PM (2)](https://user-images.githubusercontent.com/94748389/198824130-0d8d30b0-d4fd-4401-bf5b-384b8d844f4d.jpeg)
+![WhatsApp Image 2022-10-29 at 2 51 49 PM (3)](https://user-images.githubusercontent.com/94748389/198824134-78124322-1655-426e-b07e-29274073ff6d.jpeg)
+
 
 
 ## Result:
