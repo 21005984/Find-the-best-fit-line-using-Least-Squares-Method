@@ -53,8 +53,10 @@ plt.show()
 ## Output:
 ![WhatsApp Image 2022-10-29 at 2 51 49 PM](https://user-images.githubusercontent.com/94748389/198824100-aa16e2d2-6869-4c0e-b327-39c603956707.jpeg)
 ![WhatsApp Image 2022-10-29 at 2 51 49 PM (1)](https://user-images.githubusercontent.com/94748389/198824112-b5122fd7-a73c-494f-8ad9-f44fdd42d334.jpeg)
+![C](https://user-images.githubusercontent.com/94748389/198824406-d79d83c0-0340-4431-a6aa-5b80a1664f3c.png)
+
 ![WhatsApp Image 2022-10-29 at 2 51 49 PM (5)](https://user-images.githubusercontent.com/94748389/198824279-01e1ac46-e353-4635-a44c-bbfef3972027.jpeg)
-![WhatsApp Image 2022-10-29 at 2 51 49 PM (3)](https://user-images.githubusercontent.com/94748389/198824264-42647282-bd83-4fab-97ee-53a54d64b1c4.jpeg)
+
 ![WhatsApp Image 2022-10-29 at 2 51 49 PM (2)](https://user-images.githubusercontent.com/94748389/198824130-0d8d30b0-d4fd-4401-bf5b-384b8d844f4d.jpeg)
 ![WhatsApp Image 2022-10-29 at 2 51 49 PM (3)](https://user-images.githubusercontent.com/94748389/198824134-78124322-1655-426e-b07e-29274073ff6d.jpeg)
 
